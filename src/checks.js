@@ -39,3 +39,4 @@ console.log(reducerIf('lowercase', 'STRing')); // string
 console.log(reducerIf('fence', 'string')); // sTrInG
 console.log(reducerIf('capitalize', 'test test')); // Test Test
 console.log(reducerIf('bla', 'string')); // string
+
